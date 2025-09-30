@@ -1,0 +1,139 @@
+{
+  "id": "69482121463308316711",
+  "name": "@indra.ai/deva.householder",
+  "version": "0.0.23",
+  "license": "VLA:69482121463308316711 LICENSE.md",
+  "VLA": {
+    "uid": "69482121463308316711",
+    "time": 1758891276619,
+    "date": "Friday, September 26, 2025 - 5:54:36 AM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "dYGzuXgpKNJUZVIrtZ+uiCV0/c9UVi4qRzYSO2CKTkE=",
+    "core": "NHcFfowqwPTB/NeAlPubuT1TSZyg9+fT4Jr765bU4jQ=",
+    "machine": "sw29nGOyoGp0S9863VH9jS09e08h6huXh+09hwsBX0E=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "geuh1PTz/wM0l8tbfjH79A==",
+    "sha256": "AeXYB04p/vqxDWnxAMmTHN7pd9i53l1jh28k4ICj0RE=",
+    "sha512": "LVwc5dz89pOl1S7CFOtMYFbJ22ejixEX8xlJCgQnPSltHGG2g6J8yFWQmB1gcUIXqA5syLJWxmEvocWsP4ScKA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Brahmana Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.householder.git"
+  },
+  "keywords": [
+    "Brahmana",
+    "Deva",
+    "Brahmana Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.householder/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.6.102"
+  },
+  "data": {
+    "agent": {
+      "id": "11991527437011142987",
+      "key": "householder",
+      "prompt": {
+        "emoji": "🏠",
+        "text": "#householder",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "id": "43548339587808710139",
+        "name": "Householder Deva",
+        "hashtag": "#Householder",
+        "title": "Householder Deva",
+        "subtitle": "Householder Deva build on the philosophy the Vedas.",
+        "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "post": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,HouseholderDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A master Householder painter and modern style.",
+        "system": "Deva.world.householder",
+        "layout": "default",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "created": "Friday, July 4, 2025 - 6:46:00 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "✅ Householder Deva Ready"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Householder is creating a uid",
+        "status": "Householder is viewing the status",
+        "help": "Householder is viewing the help",
+        "artist": "Householder creating",
+        "live": "Householder livechat",
+        "ask": "Householder asking",
+        "reply": "Householder reply",
+        "comment": "Householder comment"
+      }
+    }
+  }
+}
